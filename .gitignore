@@ -4,3 +4,5 @@ meta_info/
 __pycache__/
 data
 video_processing.log
+batches/
+meta_info.zip
