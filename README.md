@@ -11,8 +11,9 @@ This may cause [temporary IP block](https://github.com/yt-dlp/yt-dlp/issues/7860
 1. Clone the repository or download the source code.
 2. Install required Python packages: `pip install -r requirements.txt`.
 3. Ensure `yt-dlp` and `aria2c` are installed and accessible in your system's PATH.
+4. Download batches.zip to gather meta info. More information on how to use this later. 
 
-~~ 4. Download and decompress the [meta_info.zip](https://1drv.ms/u/s!Ag1HH_EDGMqqh2i5sgNyHpcVldos?e=8wKFtV) file in the root directory of the project to obtain the metadata files needed for video processing. ~~
+~~4. Download and decompress the [meta_info.zip](https://1drv.ms/u/s!Ag1HH_EDGMqqh2i5sgNyHpcVldos?e=8wKFtV) file in the root directory of the project to obtain the metadata files needed for video processing.~~
 
 ## Usage
 
